@@ -180,8 +180,12 @@ E-Mail: [deradm1n@icloud.com](mailto:deradm1n@icloud.com)
 </section>
 
 <section id="privacy">
-<h2>Datenschutzerklärung (DSGVO)</h2>
+<h2>Datenschutzerklärung für den Discord-Bot „SystemHost“ (DSGVO)</h2>
 <div class="card">
+
+**Letzte Aktualisierung:** 15. März 2026
+
+Diese Datenschutzerklärung informiert darüber, welche Daten durch die Nutzung des Discord-Bots verarbeitet werden.
 <p>Der Bot kann folgende Daten speichern:</p>
 <ul>
 <li>Discord Benutzer-ID</li>
@@ -189,11 +193,6 @@ E-Mail: [deradm1n@icloud.com](mailto:deradm1n@icloud.com)
 <li>Channel-ID</li>
 <li>Server Einstellungen</li>
 </ul>
-## Datenschutzerklärung für den Discord-Bot „[SystemHost]“
-
-**Letzte Aktualisierung:** 15. März 2026
-
-Diese Datenschutzerklärung informiert darüber, welche Daten durch die Nutzung des Discord-Bots verarbeitet werden.
 
 Abrufbar unter:
 https://github.com/deradm1n-sys/Tos-Privacy
