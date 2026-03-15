@@ -4,23 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>[BOTNAME] – Discord Bot</title>
-<style>
-:root{--bg:#0f172a;--card:#111827;--accent:#6366f1;--text:#e5e7eb}
-*{box-sizing:border-box}
-body{margin:0;font-family:Arial,Helvetica,sans-serif;background:var(--bg);color:var(--text)}
-header{padding:60px 20px;text-align:center;background:linear-gradient(180deg,#111827,#020617)}
-h1{font-size:42px;margin-bottom:10px}
-.btn{display:inline-block;margin-top:20px;padding:12px 22px;background:var(--accent);border-radius:8px;text-decoration:none;color:white;font-weight:bold}
-nav{position:sticky;top:0;background:#020617;padding:15px;text-align:center;border-bottom:1px solid #1f2937}
-nav a{margin:0 12px;color:#93c5fd;text-decoration:none;font-weight:bold}
-section{max-width:1100px;margin:auto;padding:60px 20px}
-.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px}
-.card{background:var(--card);padding:25px;border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,0.4)}
-h2{margin-top:0}
-.code{background:#020617;padding:15px;border-radius:8px;font-family:monospace;overflow:auto}
-footer{text-align:center;padding:40px;background:#020617;color:#9ca3af;margin-top:40px}
-</style>
+
 </head>
 <body>
 
