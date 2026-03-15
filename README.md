@@ -189,14 +189,14 @@ E-Mail: [deradm1n@icloud.com](mailto:deradm1n@icloud.com)
 <li>Channel-ID</li>
 <li>Server Einstellungen</li>
 </ul>
-# Datenschutzerklärung für den Discord-Bot „[BOTNAME]“
+## Datenschutzerklärung für den Discord-Bot „[SystemHost]“
 
 **Letzte Aktualisierung:** 15. März 2026
 
 Diese Datenschutzerklärung informiert darüber, welche Daten durch die Nutzung des Discord-Bots verarbeitet werden.
 
 Abrufbar unter:
-https://deine-domain.de/bot/privacy
+https://github.com/deradm1n-sys/Tos-Privacy
 
 ---
 
@@ -204,8 +204,8 @@ https://deine-domain.de/bot/privacy
 
 Betreiber des Bots:
 
-[BOTNAME Entwickler]
-E-Mail: [support@deine-domain.de](mailto:support@deine-domain.de)
+[SystemHost Entwickler]
+E-Mail: [deradm1n@icloud.com](mailto:deradm1n@icloud.com)
 
 ---
 
