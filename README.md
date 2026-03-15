@@ -1,4 +1,3 @@
-# Tos-Privacy
 <!DOCTYPE html>
 <html lang="de">
 <head>
@@ -9,7 +8,7 @@
 <body>
 
 <header>
-<h1>[BOTNAME]</h1>
+<h1>Tos and Privacy für den Bot [SystemHost]</h1>
 <p>Moderation • Levelsystem • Automatisierung • Discord Server Management</p>
 <a class="btn" href="#invite">Bot einladen</a>
 </header>
@@ -75,13 +74,101 @@ Hosting: Vercel / Railway / VPS
 <div class="card">
 <p><strong>Letzte Aktualisierung:</strong> 15. März 2026</p>
 
-<p>Diese Nutzungsbedingungen regeln die Nutzung des Discord-Bots <b>[BOTNAME]</b>.</p>
+<p>Diese Nutzungsbedingungen regeln die Nutzung des Discord-Bots <b>[SystemHost]</b>.</p>
 
 <h3>Nutzung</h3>
 <ul>
-<li>Keine illegalen Aktivitäten</li>
-<li>Kein Missbrauch des Bots</li>
-<li>Discord Terms müssen eingehalten werden</li>
+# Nutzungsbedingungen für den Discord-Bot „<b>[SystemHost]</b>“
+
+**Letzte Aktualisierung:** 15. März 2026
+
+Diese Nutzungsbedingungen („Bedingungen“) regeln die Nutzung des Discord-Bots **[SystemHost]** („Bot“, „Dienst“).
+Durch das Hinzufügen oder Verwenden des Bots auf einem Server stimmen Sie diesen Bedingungen zu.
+
+---
+
+## 1. Beschreibung des Dienstes
+
+[SystemHost] ist ein automatisierter Discord-Bot, der Funktionen für:
+
+* Moderation
+* Automatisierung
+* Levelsysteme
+* Serververwaltung
+* Unterhaltung
+
+bereitstellt.
+
+Der Bot bietet Funktionen ähnlich zu bekannten Moderationsbots.
+
+---
+
+## 2. Nutzung des Bots
+
+Die Nutzung ist nur erlaubt, wenn:
+
+* die Nutzungsbedingungen von Discord eingehalten werden
+* keine illegalen Aktivitäten durchgeführt werden
+* der Bot nicht manipuliert oder missbraucht wird
+
+Verboten sind insbesondere:
+
+* Spam oder Bot-Missbrauch
+* Versuch der Manipulation des Bots
+* Nutzung für Belästigung oder illegale Aktivitäten
+
+---
+
+## 3. Verfügbarkeit
+
+Der Bot wird **„wie verfügbar“** bereitgestellt.
+
+Es wird keine Garantie übernommen für:
+
+* permanente Verfügbarkeit
+* fehlerfreie Funktion
+* dauerhafte Speicherung von Daten
+
+Der Betreiber kann Funktionen jederzeit ändern oder entfernen.
+
+---
+
+## 4. Haftungsausschluss
+
+Der Betreiber haftet nicht für:
+
+* Schäden durch Nutzung oder Nichtverfügbarkeit des Bots
+* Datenverlust
+* Fehlfunktionen
+
+Die Nutzung erfolgt auf eigene Verantwortung.
+
+---
+
+## 5. Beendigung der Nutzung
+
+Der Betreiber behält sich das Recht vor:
+
+* Server vom Bot auszuschließen
+* Funktionen einzuschränken
+* die Nutzung zu beenden
+
+wenn gegen diese Bedingungen verstoßen wird.
+
+---
+
+## 6. Änderungen der Bedingungen
+
+Diese Nutzungsbedingungen können jederzeit aktualisiert werden.
+
+---
+
+## 7. Kontakt
+
+Bei Fragen:
+
+E-Mail: [deradm1n@icloud.com](mailto:deradm1n@icloud.com)
+
 </ul>
 
 <h3>Haftung</h3>
@@ -113,7 +200,7 @@ Hosting: Vercel / Railway / VPS
 <li>Korrektur falscher Daten</li>
 </ul>
 
-<p>Anfragen: support@deine-domain.de</p>
+<p>Anfragen: deradm1n@icloud.com</p>
 </div>
 </section>
 
@@ -130,7 +217,7 @@ module.exports = {
   .setName('tos')
   .setDescription('Zeigt die Nutzungsbedingungen'),
  async execute(interaction) {
-  await interaction.reply('Terms of Service: https://deinedomain.de/#tos');
+  await interaction.reply('Terms of Service: https://github.com/deradm1n-sys/Tos-Privacy');
  }
 };
 </div>
@@ -145,7 +232,7 @@ module.exports = {
   .setName('privacy')
   .setDescription('Zeigt die Datenschutzerklärung'),
  async execute(interaction) {
-  await interaction.reply('Privacy Policy: https://deinedomain.de/#privacy');
+  await interaction.reply('Privacy Policy: https://github.com/deradm1n-sys/Tos-Privacy');
  }
 };
 </div>
@@ -164,7 +251,7 @@ https://discord.com/api/oauth2/authorize?client_id=BOTID&permissions=8&scope=bot
 </section>
 
 <footer>
-<p>© 2026 [BOTNAME] – Discord Bot</p>
+<p>© 2026 [SystemHost] – Discord Bot</p>
 </footer>
 
 </body>
