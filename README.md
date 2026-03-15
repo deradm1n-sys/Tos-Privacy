@@ -245,7 +245,7 @@ module.exports = {
 <p>Füge den Bot zu deinem Server hinzu:</p>
 
 <div class="code">
-https://discord.com/api/oauth2/authorize?client_id=BOTID&permissions=8&scope=bot%20applications.commands
+https://discord.com/oauth2/authorize?client_id=1482775559665877012
 </div>
 </div>
 </section>
