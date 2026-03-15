@@ -271,7 +271,7 @@ Anfragen können über die Kontaktadresse gestellt werden.
 Diese Datenschutzerklärung kann jederzeit geändert werden.
 Die aktuelle Version ist immer unter folgendem Link abrufbar:
 
-https://deine-domain.de/bot/privacy
+https://github.com/deradm1n-sys/Tos-Privacy
 
 <h3>Zweck</h3>
 <p>Diese Daten werden ausschließlich verwendet um Funktionen des Bots bereitzustellen.</p>
