@@ -189,6 +189,89 @@ E-Mail: [deradm1n@icloud.com](mailto:deradm1n@icloud.com)
 <li>Channel-ID</li>
 <li>Server Einstellungen</li>
 </ul>
+# Datenschutzerklärung für den Discord-Bot „[BOTNAME]“
+
+**Letzte Aktualisierung:** 15. März 2026
+
+Diese Datenschutzerklärung informiert darüber, welche Daten durch die Nutzung des Discord-Bots verarbeitet werden.
+
+Abrufbar unter:
+https://deine-domain.de/bot/privacy
+
+---
+
+## 1. Verantwortlicher
+
+Betreiber des Bots:
+
+[BOTNAME Entwickler]
+E-Mail: [support@deine-domain.de](mailto:support@deine-domain.de)
+
+---
+
+## 2. Welche Daten gespeichert werden
+
+Der Bot kann folgende Daten verarbeiten:
+
+* Discord Benutzer-ID
+* Discord Server-ID
+* Channel-ID
+* Rollen-ID
+* Nachrichteninhalte (nur wenn für Funktionen notwendig)
+* Serverkonfigurationen
+
+Diese Daten werden ausschließlich für die Funktion des Bots verwendet.
+
+---
+
+## 3. Zweck der Datenverarbeitung
+
+Die Daten werden verarbeitet für:
+
+* Moderationsfunktionen
+* Levelsysteme
+* Serververwaltung
+* Speicherung von Einstellungen
+* Funktionsausführung von Bot-Befehlen
+
+---
+
+## 4. Speicherung der Daten
+
+Daten werden nur so lange gespeichert wie nötig, um die Funktionen des Bots bereitzustellen.
+
+Serveradministratoren können jederzeit eine Löschung anfragen.
+
+---
+
+## 5. Weitergabe von Daten
+
+Es erfolgt **keine Weitergabe von Daten an Dritte**, außer:
+
+* wenn gesetzlich erforderlich
+* zur technischen Bereitstellung des Bots (z. B. Hosting)
+
+---
+
+## 6. Rechte der Nutzer (DSGVO)
+
+Nutzer haben das Recht auf:
+
+* Auskunft über gespeicherte Daten
+* Berichtigung
+* Löschung
+* Einschränkung der Verarbeitung
+
+Anfragen können über die Kontaktadresse gestellt werden.
+
+---
+
+## 7. Änderungen dieser Datenschutzerklärung
+
+Diese Datenschutzerklärung kann jederzeit geändert werden.
+Die aktuelle Version ist immer unter folgendem Link abrufbar:
+
+https://deine-domain.de/bot/privacy
 
 <h3>Zweck</h3>
 <p>Diese Daten werden ausschließlich verwendet um Funktionen des Bots bereitzustellen.</p>
