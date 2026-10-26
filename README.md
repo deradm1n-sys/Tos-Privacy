@@ -8,7 +8,7 @@
 <body>
 
 <header>
-<h1>Tos and Privacy für den Bot [SystemHost]</h1>
+<h1>Tos and Privacy für den Bot [Rebel Reign]</h1>
 <p>Moderation • Levelsystem • Automatisierung • Discord Server Management</p>
 <a class="btn" href="#invite">Bot einladen</a>
 </header>
@@ -72,24 +72,24 @@ Hosting: Vercel / Railway / VPS
 <section id="tos">
 <h2>Terms of Service</h2>
 <div class="card">
-<p><strong>Letzte Aktualisierung:</strong> 15. März 2026</p>
+<p><strong>Letzte Aktualisierung:</strong> 26. Oktober 2026</p>
 
-<p>Diese Nutzungsbedingungen regeln die Nutzung des Discord-Bots <b>[SystemHost]</b>.</p>
+<p>Diese Nutzungsbedingungen regeln die Nutzung des Discord-Bots <b>[Rebel Reign]</b>.</p>
 
 <h3>Nutzung</h3>
 <ul>
-# Nutzungsbedingungen für den Discord-Bot „<b>[SystemHost]</b>“
+# Nutzungsbedingungen für den Discord-Bot „<b>[Rebel Reign]</b>“
 
 **Letzte Aktualisierung:** 15. März 2026
 
-Diese Nutzungsbedingungen („Bedingungen“) regeln die Nutzung des Discord-Bots **[SystemHost]** („Bot“, „Dienst“).
+Diese Nutzungsbedingungen („Bedingungen“) regeln die Nutzung des Discord-Bots **[Rebel Reign]** („Bot“, „Dienst“).
 Durch das Hinzufügen oder Verwenden des Bots auf einem Server stimmen Sie diesen Bedingungen zu.
 
 ---
 
 ## 1. Beschreibung des Dienstes
 
-[SystemHost] ist ein automatisierter Discord-Bot, der Funktionen für:
+[Rebel Reign] ist ein automatisierter Discord-Bot, der Funktionen für:
 
 * Moderation
 * Automatisierung
@@ -180,10 +180,10 @@ E-Mail: [deradm1n@icloud.com](mailto:deradm1n@icloud.com)
 </section>
 
 <section id="privacy">
-<h2>Datenschutzerklärung für den Discord-Bot „SystemHost“ (DSGVO)</h2>
+<h2>Datenschutzerklärung für den Discord-Bot „Rebel Reign“ (DSGVO)</h2>
 <div class="card">
 
-**Letzte Aktualisierung:** 15. März 2026
+**Letzte Aktualisierung:** 26. Oktober 2026
 
 Diese Datenschutzerklärung informiert darüber, welche Daten durch die Nutzung des Discord-Bots verarbeitet werden.
 <p>Der Bot kann folgende Daten speichern:</p>
@@ -203,7 +203,7 @@ https://github.com/deradm1n-sys/Tos-Privacy
 
 Betreiber des Bots:
 
-[SystemHost Entwickler]
+[Rebel Reign Entwickler]
 E-Mail: [deradm1n@icloud.com](mailto:deradm1n@icloud.com)
 
 ---
@@ -333,7 +333,7 @@ https://discord.com/oauth2/authorize?client_id=1482775559665877012
 </section>
 
 <footer>
-<p>© 2026 [SystemHost] – Discord Bot</p>
+<p>© 2026 [Rebel Reign] – Discord Bot</p>
 </footer>
 
 </body>
